@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Projetos\\AgendaDesafio\\AgendaDesafio\\agendaback\\AgendaDesafio2\\AgendaDesafio2.csproj": {}
+    "D:\\Projetos\\Java\\DesafioAgendaFull\\agendaback\\AgendaDesafio2\\AgendaDesafio2.csproj": {}
   },
   "projects": {
-    "D:\\Projetos\\AgendaDesafio\\AgendaDesafio\\agendaback\\AgendaDesafio2\\AgendaDesafio2.csproj": {
+    "D:\\Projetos\\Java\\DesafioAgendaFull\\agendaback\\AgendaDesafio2\\AgendaDesafio2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Projetos\\AgendaDesafio\\AgendaDesafio\\agendaback\\AgendaDesafio2\\AgendaDesafio2.csproj",
+        "projectUniqueName": "D:\\Projetos\\Java\\DesafioAgendaFull\\agendaback\\AgendaDesafio2\\AgendaDesafio2.csproj",
         "projectName": "AgendaDesafio2",
-        "projectPath": "D:\\Projetos\\AgendaDesafio\\AgendaDesafio\\agendaback\\AgendaDesafio2\\AgendaDesafio2.csproj",
+        "projectPath": "D:\\Projetos\\Java\\DesafioAgendaFull\\agendaback\\AgendaDesafio2\\AgendaDesafio2.csproj",
         "packagesPath": "C:\\Users\\Grandlook\\.nuget\\packages\\",
-        "outputPath": "D:\\Projetos\\AgendaDesafio\\AgendaDesafio\\agendaback\\AgendaDesafio2\\obj\\",
+        "outputPath": "D:\\Projetos\\Java\\DesafioAgendaFull\\agendaback\\AgendaDesafio2\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Grandlook\\AppData\\Roaming\\NuGet\\NuGet.Config",

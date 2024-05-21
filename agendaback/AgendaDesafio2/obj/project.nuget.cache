@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "yY4UJw7AHBz1aqqZ/jdZJBb5MwX4IGytbx2WexMh5HMQe0IGzKNxfo4iPofe5b5UYQEnzVUDkRChIT3ltNqEbA==",
+  "dgSpecHash": "lfp3euUQwADZfTR4NpA/K+dce0AXnNBmWyVbW02Rkprj+/pskSPnVAiXOsGokqs0Aan+a+PFLK0YlU33/bvN4Q==",
   "success": true,
-  "projectFilePath": "D:\\Projetos\\AgendaDesafio\\AgendaDesafio\\agendaback\\AgendaDesafio2\\AgendaDesafio2.csproj",
+  "projectFilePath": "D:\\Projetos\\Java\\DesafioAgendaFull\\agendaback\\AgendaDesafio2\\AgendaDesafio2.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Grandlook\\.nuget\\packages\\automapper\\12.0.0\\automapper.12.0.0.nupkg.sha512",
     "C:\\Users\\Grandlook\\.nuget\\packages\\automapper.ef6\\3.0.0\\automapper.ef6.3.0.0.nupkg.sha512",
