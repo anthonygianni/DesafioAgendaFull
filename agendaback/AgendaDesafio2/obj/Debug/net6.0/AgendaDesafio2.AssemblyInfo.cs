@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AgendaDesafio2")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ee007cd8d16ad6c40f2db9645dc93fec5ef25377")]
 [assembly: System.Reflection.AssemblyProductAttribute("AgendaDesafio2")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AgendaDesafio2")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
